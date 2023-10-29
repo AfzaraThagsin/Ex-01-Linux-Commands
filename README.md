@@ -11,7 +11,7 @@ Linux is an open-source operating system. The kernel is the heart of Linux OS wh
  
 helps the communication between hardware and software. The main advantage of Linux was that programmers can use Linux kernel to design their own custom OS.
 
-Linux Commands:
+## Linux Commands:
 All basic and advanced tasks can be done by executing commands. The commands are executed on Linux terminal. Linux commands are case sensitive.
 
 
@@ -188,8 +188,11 @@ Syntax: ifconfig[options][interface]
 The chmod 777 command gives read, write and execute permission to the owner, group and public.
 
 Syntax: chmod 777 file_name
+
 $chmod -R 777 /path/to/file/or/folder
- ![image](https://github.com/AfzaraThagsin/Ex-01-Linux-Commands/assets/127172501/9614265c-d49c-479d-b2fb-5913b7a641b0)
+ 
+
+
 
 ### 23)	host Command
 
